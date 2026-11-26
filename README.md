@@ -1,8 +1,10 @@
-\# WordQuest – Android Word Guessing Game
+
+
+\# WordQuest - Android Word Guessing Game
 
 
 
-WordQuest is an Android word guessing game designed to improve vocabulary and problem-solving skills through interactive gameplay.
+WordQuest is an interactive Android game designed to improve vocabulary and problem-solving skills.
 
 
 
@@ -12,13 +14,15 @@ WordQuest is an Android word guessing game designed to improve vocabulary and pr
 
 \- Interactive word guessing gameplay
 
-\- Welcome and onboarding screen
+\- Score tracking and countdown timer
 
-\- Score tracking
+\- Hint system
 
-\- Leaderboard
+\- Limited guessing attempts
 
-\- User-friendly interface
+\- Leaderboard feature
+
+\- Modern user interface
 
 
 
@@ -42,11 +46,15 @@ WordQuest is an Android word guessing game designed to improve vocabulary and pr
 
 
 
-| App Preview | Welcome Screen | Home Screen | Gameplay |
+| App Preview | Welcome | Home | Gameplay |
 
-|:---:|:---:|:---:|:---:|
+| :---: | :---: | :---: | :---: |
 
 | <img src="screenshots/app-icon.png" width="180"> | <img src="screenshots/welcome.png" width="180"> | <img src="screenshots/home.png" width="180"> | <img src="screenshots/gameplay.png" width="180"> |
+
+
+
+\*App icon preview is an edited promotional image.\*
 
 
 
@@ -60,15 +68,7 @@ WordQuest is an Android word guessing game designed to improve vocabulary and pr
 
 3\. Sync Gradle dependencies.
 
-4\. Run the application on an Android emulator or physical device.
-
-
-
-\## Project Purpose
-
-
-
-This project was developed to demonstrate Android mobile application development, UI design, and game logic implementation.
+4\. Run on an emulator or Android device.
 
 
 
